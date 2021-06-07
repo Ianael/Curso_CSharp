@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.exe
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.deps.json
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\bin\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.dll
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.pdb
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.genruntimeconfig.cache
+C:\Users\ianael\Documents\curso_csharp\Funcoes\Funcoes\obj\Debug\netcoreapp3.1\Funcoes.csprojAssemblyReference.cache
