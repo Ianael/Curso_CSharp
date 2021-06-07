@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\bin\Debug\netcoreapp3.1\Ex_Aula23.exe
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\bin\Debug\netcoreapp3.1\Ex_Aula23.deps.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\bin\Debug\netcoreapp3.1\Ex_Aula23.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\bin\Debug\netcoreapp3.1\Ex_Aula23.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\bin\Debug\netcoreapp3.1\Ex_Aula23.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\bin\Debug\netcoreapp3.1\Ex_Aula23.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\obj\Debug\netcoreapp3.1\Ex_Aula23.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\obj\Debug\netcoreapp3.1\Ex_Aula23.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\obj\Debug\netcoreapp3.1\Ex_Aula23.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\obj\Debug\netcoreapp3.1\Ex_Aula23.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\obj\Debug\netcoreapp3.1\Ex_Aula23.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\obj\Debug\netcoreapp3.1\Ex_Aula23.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_Aula23\Ex_Aula23\obj\Debug\netcoreapp3.1\Ex_Aula23.genruntimeconfig.cache
