@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\bin\Debug\netcoreapp3.1\Ex_146.exe
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\bin\Debug\netcoreapp3.1\Ex_146.deps.json
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\bin\Debug\netcoreapp3.1\Ex_146.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\bin\Debug\netcoreapp3.1\Ex_146.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\bin\Debug\netcoreapp3.1\Ex_146.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\bin\Debug\netcoreapp3.1\Ex_146.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\obj\Debug\netcoreapp3.1\Ex_146.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\obj\Debug\netcoreapp3.1\Ex_146.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\obj\Debug\netcoreapp3.1\Ex_146.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\obj\Debug\netcoreapp3.1\Ex_146.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\obj\Debug\netcoreapp3.1\Ex_146.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\obj\Debug\netcoreapp3.1\Ex_146.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_146\Ex_146\obj\Debug\netcoreapp3.1\Ex_146.genruntimeconfig.cache
