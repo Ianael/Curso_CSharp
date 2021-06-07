@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\bin\Debug\netcoreapp3.1\Ex_Listas.exe
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\bin\Debug\netcoreapp3.1\Ex_Listas.deps.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\bin\Debug\netcoreapp3.1\Ex_Listas.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\bin\Debug\netcoreapp3.1\Ex_Listas.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\bin\Debug\netcoreapp3.1\Ex_Listas.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\bin\Debug\netcoreapp3.1\Ex_Listas.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\obj\Debug\netcoreapp3.1\Ex_Listas.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\obj\Debug\netcoreapp3.1\Ex_Listas.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\obj\Debug\netcoreapp3.1\Ex_Listas.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\obj\Debug\netcoreapp3.1\Ex_Listas.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\obj\Debug\netcoreapp3.1\Ex_Listas.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_Listas\Ex_Listas\obj\Debug\netcoreapp3.1\Ex_Listas.genruntimeconfig.cache
