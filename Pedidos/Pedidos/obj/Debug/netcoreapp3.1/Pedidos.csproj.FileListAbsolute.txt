@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\bin\Debug\netcoreapp3.1\Pedidos.exe
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\bin\Debug\netcoreapp3.1\Pedidos.deps.json
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\bin\Debug\netcoreapp3.1\Pedidos.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\bin\Debug\netcoreapp3.1\Pedidos.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\bin\Debug\netcoreapp3.1\Pedidos.dll
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\bin\Debug\netcoreapp3.1\Pedidos.pdb
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\obj\Debug\netcoreapp3.1\Pedidos.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\obj\Debug\netcoreapp3.1\Pedidos.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\obj\Debug\netcoreapp3.1\Pedidos.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\obj\Debug\netcoreapp3.1\Pedidos.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\obj\Debug\netcoreapp3.1\Pedidos.dll
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\obj\Debug\netcoreapp3.1\Pedidos.pdb
+C:\Users\ianael\Documents\curso_csharp\Pedidos\Pedidos\obj\Debug\netcoreapp3.1\Pedidos.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\bin\Debug\netcoreapp3.1\Null_e_Vetores.exe
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\bin\Debug\netcoreapp3.1\Null_e_Vetores.deps.json
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\bin\Debug\netcoreapp3.1\Null_e_Vetores.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\bin\Debug\netcoreapp3.1\Null_e_Vetores.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\bin\Debug\netcoreapp3.1\Null_e_Vetores.dll
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\bin\Debug\netcoreapp3.1\Null_e_Vetores.pdb
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\obj\Debug\netcoreapp3.1\Null_e_Vetores.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\obj\Debug\netcoreapp3.1\Null_e_Vetores.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\obj\Debug\netcoreapp3.1\Null_e_Vetores.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\obj\Debug\netcoreapp3.1\Null_e_Vetores.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\obj\Debug\netcoreapp3.1\Null_e_Vetores.dll
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\obj\Debug\netcoreapp3.1\Null_e_Vetores.pdb
+C:\Users\ianael\Documents\curso_csharp\Null_e_Vetores\Null_e_Vetores\obj\Debug\netcoreapp3.1\Null_e_Vetores.genruntimeconfig.cache
