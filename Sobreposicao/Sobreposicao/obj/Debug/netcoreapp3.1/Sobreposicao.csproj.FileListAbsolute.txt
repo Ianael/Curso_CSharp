@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.exe
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.deps.json
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.dll
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\bin\Debug\netcoreapp3.1\Sobreposicao.pdb
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.dll
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.pdb
+C:\Users\ianael\Documents\curso_csharp\Sobreposicao\Sobreposicao\obj\Debug\netcoreapp3.1\Sobreposicao.genruntimeconfig.cache
