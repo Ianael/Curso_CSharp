@@ -1,0 +1,13 @@
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\netcoreapp3.1\Metodo_Abstrato.exe
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\netcoreapp3.1\Metodo_Abstrato.deps.json
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\netcoreapp3.1\Metodo_Abstrato.runtimeconfig.json
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\netcoreapp3.1\Metodo_Abstrato.runtimeconfig.dev.json
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\netcoreapp3.1\Metodo_Abstrato.dll
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\bin\Debug\netcoreapp3.1\Metodo_Abstrato.pdb
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\netcoreapp3.1\Metodo_Abstrato.csprojAssemblyReference.cache
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\netcoreapp3.1\Metodo_Abstrato.AssemblyInfoInputs.cache
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\netcoreapp3.1\Metodo_Abstrato.AssemblyInfo.cs
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\netcoreapp3.1\Metodo_Abstrato.csproj.CoreCompileInputs.cache
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\netcoreapp3.1\Metodo_Abstrato.dll
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\netcoreapp3.1\Metodo_Abstrato.pdb
+C:\Users\ianael\source\repos\Metodo_Abstrato\Metodo_Abstrato\obj\Debug\netcoreapp3.1\Metodo_Abstrato.genruntimeconfig.cache
