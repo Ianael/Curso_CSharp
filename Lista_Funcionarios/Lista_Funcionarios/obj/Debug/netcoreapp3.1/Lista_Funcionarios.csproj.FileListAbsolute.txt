@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\bin\Debug\netcoreapp3.1\Lista_Funcionarios.exe
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\bin\Debug\netcoreapp3.1\Lista_Funcionarios.deps.json
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\bin\Debug\netcoreapp3.1\Lista_Funcionarios.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\bin\Debug\netcoreapp3.1\Lista_Funcionarios.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\bin\Debug\netcoreapp3.1\Lista_Funcionarios.dll
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\bin\Debug\netcoreapp3.1\Lista_Funcionarios.pdb
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\obj\Debug\netcoreapp3.1\Lista_Funcionarios.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\obj\Debug\netcoreapp3.1\Lista_Funcionarios.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\obj\Debug\netcoreapp3.1\Lista_Funcionarios.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\obj\Debug\netcoreapp3.1\Lista_Funcionarios.dll
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\obj\Debug\netcoreapp3.1\Lista_Funcionarios.pdb
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\obj\Debug\netcoreapp3.1\Lista_Funcionarios.genruntimeconfig.cache
+C:\Users\ianael\Documents\curso_csharp\Lista_Funcionarios\Lista_Funcionarios\obj\Debug\netcoreapp3.1\Lista_Funcionarios.csprojAssemblyReference.cache
