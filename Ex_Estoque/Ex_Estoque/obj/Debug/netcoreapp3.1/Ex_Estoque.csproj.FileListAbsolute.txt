@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\bin\Debug\netcoreapp3.1\Ex_Estoque.exe
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\bin\Debug\netcoreapp3.1\Ex_Estoque.deps.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\bin\Debug\netcoreapp3.1\Ex_Estoque.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\bin\Debug\netcoreapp3.1\Ex_Estoque.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\bin\Debug\netcoreapp3.1\Ex_Estoque.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\bin\Debug\netcoreapp3.1\Ex_Estoque.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\obj\Debug\netcoreapp3.1\Ex_Estoque.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\obj\Debug\netcoreapp3.1\Ex_Estoque.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\obj\Debug\netcoreapp3.1\Ex_Estoque.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\obj\Debug\netcoreapp3.1\Ex_Estoque.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\obj\Debug\netcoreapp3.1\Ex_Estoque.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\obj\Debug\netcoreapp3.1\Ex_Estoque.genruntimeconfig.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Estoque\Ex_Estoque\obj\Debug\netcoreapp3.1\Ex_Estoque.csprojAssemblyReference.cache

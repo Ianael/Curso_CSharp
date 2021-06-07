@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\bin\Debug\netcoreapp3.1\Ex_Conta.exe
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\bin\Debug\netcoreapp3.1\Ex_Conta.deps.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\bin\Debug\netcoreapp3.1\Ex_Conta.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\bin\Debug\netcoreapp3.1\Ex_Conta.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\bin\Debug\netcoreapp3.1\Ex_Conta.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\bin\Debug\netcoreapp3.1\Ex_Conta.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\obj\Debug\netcoreapp3.1\Ex_Conta.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\obj\Debug\netcoreapp3.1\Ex_Conta.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\obj\Debug\netcoreapp3.1\Ex_Conta.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\obj\Debug\netcoreapp3.1\Ex_Conta.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\obj\Debug\netcoreapp3.1\Ex_Conta.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\obj\Debug\netcoreapp3.1\Ex_Conta.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_Conta\Ex_Conta\obj\Debug\netcoreapp3.1\Ex_Conta.genruntimeconfig.cache
