@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\bin\Debug\netcoreapp3.1\DateTimeKind-Padrao.exe
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\bin\Debug\netcoreapp3.1\DateTimeKind-Padrao.deps.json
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\bin\Debug\netcoreapp3.1\DateTimeKind-Padrao.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\bin\Debug\netcoreapp3.1\DateTimeKind-Padrao.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\bin\Debug\netcoreapp3.1\DateTimeKind-Padrao.dll
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\bin\Debug\netcoreapp3.1\DateTimeKind-Padrao.pdb
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\obj\Debug\netcoreapp3.1\DateTimeKind-Padrao.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\obj\Debug\netcoreapp3.1\DateTimeKind-Padrao.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\obj\Debug\netcoreapp3.1\DateTimeKind-Padrao.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\obj\Debug\netcoreapp3.1\DateTimeKind-Padrao.dll
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\obj\Debug\netcoreapp3.1\DateTimeKind-Padrao.pdb
+C:\Users\ianael\Documents\curso_csharp\DateTimeKind-Padrao\DateTimeKind-Padrao\obj\Debug\netcoreapp3.1\DateTimeKind-Padrao.genruntimeconfig.cache

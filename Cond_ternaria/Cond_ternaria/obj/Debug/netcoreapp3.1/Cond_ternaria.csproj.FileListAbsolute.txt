@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\bin\Debug\netcoreapp3.1\Cond_ternaria.exe
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\bin\Debug\netcoreapp3.1\Cond_ternaria.deps.json
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\bin\Debug\netcoreapp3.1\Cond_ternaria.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\bin\Debug\netcoreapp3.1\Cond_ternaria.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\bin\Debug\netcoreapp3.1\Cond_ternaria.dll
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\bin\Debug\netcoreapp3.1\Cond_ternaria.pdb
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\obj\Debug\netcoreapp3.1\Cond_ternaria.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\obj\Debug\netcoreapp3.1\Cond_ternaria.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\obj\Debug\netcoreapp3.1\Cond_ternaria.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\obj\Debug\netcoreapp3.1\Cond_ternaria.dll
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\obj\Debug\netcoreapp3.1\Cond_ternaria.pdb
+C:\Users\ianael\Documents\curso_csharp\Cond_ternaria\Cond_ternaria\obj\Debug\netcoreapp3.1\Cond_ternaria.genruntimeconfig.cache
