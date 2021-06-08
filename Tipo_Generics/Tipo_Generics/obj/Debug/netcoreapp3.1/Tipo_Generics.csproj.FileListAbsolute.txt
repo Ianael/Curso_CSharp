@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\bin\Debug\netcoreapp3.1\Tipo_Generics.exe
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\bin\Debug\netcoreapp3.1\Tipo_Generics.deps.json
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\bin\Debug\netcoreapp3.1\Tipo_Generics.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\bin\Debug\netcoreapp3.1\Tipo_Generics.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\bin\Debug\netcoreapp3.1\Tipo_Generics.dll
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\bin\Debug\netcoreapp3.1\Tipo_Generics.pdb
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\obj\Debug\netcoreapp3.1\Tipo_Generics.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\obj\Debug\netcoreapp3.1\Tipo_Generics.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\obj\Debug\netcoreapp3.1\Tipo_Generics.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\obj\Debug\netcoreapp3.1\Tipo_Generics.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\obj\Debug\netcoreapp3.1\Tipo_Generics.dll
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\obj\Debug\netcoreapp3.1\Tipo_Generics.pdb
+C:\Users\ianael\Documents\curso_csharp\Tipo_Generics\Tipo_Generics\obj\Debug\netcoreapp3.1\Tipo_Generics.genruntimeconfig.cache

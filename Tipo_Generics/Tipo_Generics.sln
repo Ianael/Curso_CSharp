@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tipo_Generics", "Tipo_Generics\Tipo_Generics.csproj", "{900ABCF4-6AE9-44F7-A5CF-02B7EFFC140F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{900ABCF4-6AE9-44F7-A5CF-02B7EFFC140F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{900ABCF4-6AE9-44F7-A5CF-02B7EFFC140F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{900ABCF4-6AE9-44F7-A5CF-02B7EFFC140F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{900ABCF4-6AE9-44F7-A5CF-02B7EFFC140F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97A5B88F-3C12-444D-85DC-CBE0F1127C7F}
+	EndGlobalSection
+EndGlobal
