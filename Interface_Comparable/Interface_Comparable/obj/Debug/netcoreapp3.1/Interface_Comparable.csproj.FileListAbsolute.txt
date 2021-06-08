@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\bin\Debug\netcoreapp3.1\Interface_Comparable.exe
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\bin\Debug\netcoreapp3.1\Interface_Comparable.deps.json
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\bin\Debug\netcoreapp3.1\Interface_Comparable.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\bin\Debug\netcoreapp3.1\Interface_Comparable.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\bin\Debug\netcoreapp3.1\Interface_Comparable.dll
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\bin\Debug\netcoreapp3.1\Interface_Comparable.pdb
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\obj\Debug\netcoreapp3.1\Interface_Comparable.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\obj\Debug\netcoreapp3.1\Interface_Comparable.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\obj\Debug\netcoreapp3.1\Interface_Comparable.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\obj\Debug\netcoreapp3.1\Interface_Comparable.dll
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\obj\Debug\netcoreapp3.1\Interface_Comparable.pdb
+C:\Users\ianael\Documents\curso_csharp\Interface_Comparable\Interface_Comparable\obj\Debug\netcoreapp3.1\Interface_Comparable.genruntimeconfig.cache
