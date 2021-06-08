@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\bin\Debug\netcoreapp3.1\Heranca_Diamante.exe
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\bin\Debug\netcoreapp3.1\Heranca_Diamante.deps.json
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\bin\Debug\netcoreapp3.1\Heranca_Diamante.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\bin\Debug\netcoreapp3.1\Heranca_Diamante.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\bin\Debug\netcoreapp3.1\Heranca_Diamante.dll
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\bin\Debug\netcoreapp3.1\Heranca_Diamante.pdb
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\obj\Debug\netcoreapp3.1\Heranca_Diamante.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\obj\Debug\netcoreapp3.1\Heranca_Diamante.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\obj\Debug\netcoreapp3.1\Heranca_Diamante.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\obj\Debug\netcoreapp3.1\Heranca_Diamante.dll
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\obj\Debug\netcoreapp3.1\Heranca_Diamante.pdb
+C:\Users\ianael\Documents\curso_csharp\Heranca_Diamante\Heranca_Diamante\obj\Debug\netcoreapp3.1\Heranca_Diamante.genruntimeconfig.cache
