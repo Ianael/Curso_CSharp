@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\bin\Debug\netcoreapp3.1\Heranca_com_Interface.exe
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\bin\Debug\netcoreapp3.1\Heranca_com_Interface.deps.json
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\bin\Debug\netcoreapp3.1\Heranca_com_Interface.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\bin\Debug\netcoreapp3.1\Heranca_com_Interface.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\bin\Debug\netcoreapp3.1\Heranca_com_Interface.dll
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\bin\Debug\netcoreapp3.1\Heranca_com_Interface.pdb
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\obj\Debug\netcoreapp3.1\Heranca_com_Interface.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\obj\Debug\netcoreapp3.1\Heranca_com_Interface.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\obj\Debug\netcoreapp3.1\Heranca_com_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\obj\Debug\netcoreapp3.1\Heranca_com_Interface.dll
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\obj\Debug\netcoreapp3.1\Heranca_com_Interface.pdb
+C:\Users\ianael\Documents\curso_csharp\Heranca_com_Interface\Heranca_com_Interface\obj\Debug\netcoreapp3.1\Heranca_com_Interface.genruntimeconfig.cache
