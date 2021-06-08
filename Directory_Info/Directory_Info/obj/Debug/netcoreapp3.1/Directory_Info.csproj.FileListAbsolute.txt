@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\bin\Debug\netcoreapp3.1\Directory_Info.exe
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\bin\Debug\netcoreapp3.1\Directory_Info.deps.json
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\bin\Debug\netcoreapp3.1\Directory_Info.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\bin\Debug\netcoreapp3.1\Directory_Info.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\bin\Debug\netcoreapp3.1\Directory_Info.dll
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\bin\Debug\netcoreapp3.1\Directory_Info.pdb
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\obj\Debug\netcoreapp3.1\Directory_Info.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\obj\Debug\netcoreapp3.1\Directory_Info.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\obj\Debug\netcoreapp3.1\Directory_Info.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\obj\Debug\netcoreapp3.1\Directory_Info.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\obj\Debug\netcoreapp3.1\Directory_Info.dll
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\obj\Debug\netcoreapp3.1\Directory_Info.pdb
+C:\Users\ianael\Documents\curso_csharp\Directory_Info\Directory_Info\obj\Debug\netcoreapp3.1\Directory_Info.genruntimeconfig.cache
