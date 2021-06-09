@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.pdb
+C:\Users\ianael\Documents\curso_csharp\inheritance3-csharp\Course\obj\Debug\netcoreapp2.1\Course.genruntimeconfig.cache

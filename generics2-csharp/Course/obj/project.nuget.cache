@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MM5HRx5P/MhqVAB7yIFHQh7f/BEa84orKIyVC2nhTdbQQqz5TQ5wjb2dxKiHR0Mkz8Af3aC3OkP+98XAS7TR7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ianael\\Documents\\curso_csharp\\generics2-csharp\\Course\\Course.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ianael\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\ianael\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\ianael\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\ianael\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ianael\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
