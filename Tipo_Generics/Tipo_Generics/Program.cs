@@ -5,7 +5,7 @@ namespace Tipo_Generics {
     class Program {
         static void Main(string[] args) {
             try {
-                PrintService printService = new PrintService();
+                PrintService<int> printService = new PrintService<int> ();
 
                 Console.Write("How many values? ");
                 int n = int.Parse(Console.ReadLine());
@@ -16,6 +16,11 @@ namespace Tipo_Generics {
                     int x = int.Parse(Console.ReadLine());
                     printService.AddValue(x);
                 }
+
+                Console.WriteLine();
+                int a = printService.First();
+                int b = a + 2;
+                Console.WriteLine("First+2: " + b);
 
                 Console.WriteLine();
                 printService.Print();

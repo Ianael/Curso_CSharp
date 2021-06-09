@@ -1,11 +1,11 @@
 ﻿using System;
 
 namespace Tipo_Generics {
-    class PrintService<T> {
-        private T[] _values = new T[10];
+    class PrintServiceString {
+        private string[] _values = new string[10];
         private int _count = 0;
 
-        public void AddValue(T value) {
+        public void AddValue(string value) {
             if (_count == 10) {
                 throw new InvalidOperationException("PrintService is Full");
             }
@@ -13,7 +13,7 @@ namespace Tipo_Generics {
             _count++;
         }
 
-        public T First() {
+        public string First() {
             if (_count == 0) {
                 throw new InvalidOperationException("PrintService is Empty");
             }
@@ -22,12 +22,12 @@ namespace Tipo_Generics {
 
         public void Print() {
             Console.Write("[ ");
-            for (int i=0; i < _count-1; i++) {
+            for (int i = 0; i < _count - 1; i++) {
                 Console.Write(_values[i] + ", ");
             }
             if (_count > 0) {
-                Console.WriteLine(_values[_count-1] + " ]");
-            } 
+                Console.WriteLine(_values[_count - 1] + " ]");
+            }
         }
     }
 }
