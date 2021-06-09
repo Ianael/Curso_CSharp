@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\bin\Debug\netcoreapp3.1\LINQ_SQL.exe
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\bin\Debug\netcoreapp3.1\LINQ_SQL.deps.json
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\bin\Debug\netcoreapp3.1\LINQ_SQL.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\bin\Debug\netcoreapp3.1\LINQ_SQL.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\bin\Debug\netcoreapp3.1\LINQ_SQL.dll
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\bin\Debug\netcoreapp3.1\LINQ_SQL.pdb
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\obj\Debug\netcoreapp3.1\LINQ_SQL.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\obj\Debug\netcoreapp3.1\LINQ_SQL.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\obj\Debug\netcoreapp3.1\LINQ_SQL.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\obj\Debug\netcoreapp3.1\LINQ_SQL.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\obj\Debug\netcoreapp3.1\LINQ_SQL.dll
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\obj\Debug\netcoreapp3.1\LINQ_SQL.pdb
+C:\Users\ianael\Documents\curso_csharp\LINQ_SQL\LINQ_SQL\obj\Debug\netcoreapp3.1\LINQ_SQL.genruntimeconfig.cache
