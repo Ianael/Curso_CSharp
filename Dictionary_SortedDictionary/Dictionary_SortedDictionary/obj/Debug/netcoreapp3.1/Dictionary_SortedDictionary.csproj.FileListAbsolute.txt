@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.exe
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.deps.json
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.dll
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\bin\Debug\netcoreapp3.1\Dictionary_SortedDictionary.pdb
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.dll
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.pdb
+C:\Users\ianael\Documents\curso_csharp\Dictionary_SortedDictionary\Dictionary_SortedDictionary\obj\Debug\netcoreapp3.1\Dictionary_SortedDictionary.genruntimeconfig.cache
