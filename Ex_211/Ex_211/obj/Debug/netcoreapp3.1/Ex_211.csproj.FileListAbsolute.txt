@@ -1,0 +1,13 @@
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\bin\Debug\netcoreapp3.1\Ex_211.exe
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\bin\Debug\netcoreapp3.1\Ex_211.deps.json
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\bin\Debug\netcoreapp3.1\Ex_211.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\bin\Debug\netcoreapp3.1\Ex_211.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\bin\Debug\netcoreapp3.1\Ex_211.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\bin\Debug\netcoreapp3.1\Ex_211.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\obj\Debug\netcoreapp3.1\Ex_211.csprojAssemblyReference.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\obj\Debug\netcoreapp3.1\Ex_211.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\obj\Debug\netcoreapp3.1\Ex_211.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\obj\Debug\netcoreapp3.1\Ex_211.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\obj\Debug\netcoreapp3.1\Ex_211.dll
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\obj\Debug\netcoreapp3.1\Ex_211.pdb
+C:\Users\ianael\Documents\curso_csharp\Ex_211\Ex_211\obj\Debug\netcoreapp3.1\Ex_211.genruntimeconfig.cache
