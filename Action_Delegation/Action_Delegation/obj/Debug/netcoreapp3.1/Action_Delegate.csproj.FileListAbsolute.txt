@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\bin\Debug\netcoreapp3.1\Action_Delegate.exe
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\bin\Debug\netcoreapp3.1\Action_Delegate.deps.json
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\bin\Debug\netcoreapp3.1\Action_Delegate.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\bin\Debug\netcoreapp3.1\Action_Delegate.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\bin\Debug\netcoreapp3.1\Action_Delegate.dll
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\bin\Debug\netcoreapp3.1\Action_Delegate.pdb
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\obj\Debug\netcoreapp3.1\Action_Delegate.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\obj\Debug\netcoreapp3.1\Action_Delegate.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\obj\Debug\netcoreapp3.1\Action_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\obj\Debug\netcoreapp3.1\Action_Delegate.dll
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\obj\Debug\netcoreapp3.1\Action_Delegate.pdb
+C:\Users\ianael\Documents\curso_csharp\Action_Delegation\Action_Delegation\obj\Debug\netcoreapp3.1\Action_Delegate.genruntimeconfig.cache

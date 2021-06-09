@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\bin\Debug\netcoreapp3.1\Predicates.exe
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\bin\Debug\netcoreapp3.1\Predicates.deps.json
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\bin\Debug\netcoreapp3.1\Predicates.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\bin\Debug\netcoreapp3.1\Predicates.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\bin\Debug\netcoreapp3.1\Predicates.dll
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\bin\Debug\netcoreapp3.1\Predicates.pdb
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\obj\Debug\netcoreapp3.1\Predicates.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\obj\Debug\netcoreapp3.1\Predicates.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\obj\Debug\netcoreapp3.1\Predicates.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\obj\Debug\netcoreapp3.1\Predicates.dll
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\obj\Debug\netcoreapp3.1\Predicates.pdb
+C:\Users\ianael\Documents\curso_csharp\Predicates\Predicates\obj\Debug\netcoreapp3.1\Predicates.genruntimeconfig.cache
