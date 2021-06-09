@@ -1,0 +1,13 @@
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.exe
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.deps.json
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.runtimeconfig.json
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.runtimeconfig.dev.json
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.dll
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\bin\Debug\netcoreapp3.1\HashSet_e_SortedSet.pdb
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.AssemblyInfoInputs.cache
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.AssemblyInfo.cs
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.dll
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.pdb
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.genruntimeconfig.cache
+C:\Users\ianael\source\repos\HashSet_e_SortedSet\HashSet_e_SortedSet\obj\Debug\netcoreapp3.1\HashSet_e_SortedSet.csprojAssemblyReference.cache
