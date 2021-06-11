@@ -1,0 +1,12 @@
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\bin\Debug\netcoreapp3.1\Metodos_Extensao.exe
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\bin\Debug\netcoreapp3.1\Metodos_Extensao.deps.json
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\bin\Debug\netcoreapp3.1\Metodos_Extensao.runtimeconfig.json
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\bin\Debug\netcoreapp3.1\Metodos_Extensao.runtimeconfig.dev.json
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\bin\Debug\netcoreapp3.1\Metodos_Extensao.dll
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\bin\Debug\netcoreapp3.1\Metodos_Extensao.pdb
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\obj\Debug\netcoreapp3.1\Metodos_Extensao.AssemblyInfoInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\obj\Debug\netcoreapp3.1\Metodos_Extensao.AssemblyInfo.cs
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\obj\Debug\netcoreapp3.1\Metodos_Extensao.csproj.CoreCompileInputs.cache
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\obj\Debug\netcoreapp3.1\Metodos_Extensao.dll
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\obj\Debug\netcoreapp3.1\Metodos_Extensao.pdb
+C:\Users\ianael\Documents\curso_csharp\Metodos_Extensao\Metodos_Extensao\obj\Debug\netcoreapp3.1\Metodos_Extensao.genruntimeconfig.cache
