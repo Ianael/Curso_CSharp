@@ -1,0 +1,13 @@
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\bin\Debug\netcoreapp3.1\Exemplo_DataTable.exe
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\bin\Debug\netcoreapp3.1\Exemplo_DataTable.deps.json
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\bin\Debug\netcoreapp3.1\Exemplo_DataTable.runtimeconfig.json
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\bin\Debug\netcoreapp3.1\Exemplo_DataTable.runtimeconfig.dev.json
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\bin\Debug\netcoreapp3.1\Exemplo_DataTable.dll
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\bin\Debug\netcoreapp3.1\Exemplo_DataTable.pdb
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\obj\Debug\netcoreapp3.1\Exemplo_DataTable.csproj.AssemblyReference.cache
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\obj\Debug\netcoreapp3.1\Exemplo_DataTable.AssemblyInfoInputs.cache
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\obj\Debug\netcoreapp3.1\Exemplo_DataTable.AssemblyInfo.cs
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\obj\Debug\netcoreapp3.1\Exemplo_DataTable.csproj.CoreCompileInputs.cache
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\obj\Debug\netcoreapp3.1\Exemplo_DataTable.dll
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\obj\Debug\netcoreapp3.1\Exemplo_DataTable.pdb
+E:\csharp\Exemplo_DataTable\Exemplo_DataTable\obj\Debug\netcoreapp3.1\Exemplo_DataTable.genruntimeconfig.cache
