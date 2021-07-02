@@ -1,0 +1,16 @@
+C:\Users\ianael\source\repos\Recursividade\Recursividade\bin\Debug\net5.0\Recursividade.exe
+C:\Users\ianael\source\repos\Recursividade\Recursividade\bin\Debug\net5.0\Recursividade.deps.json
+C:\Users\ianael\source\repos\Recursividade\Recursividade\bin\Debug\net5.0\Recursividade.runtimeconfig.json
+C:\Users\ianael\source\repos\Recursividade\Recursividade\bin\Debug\net5.0\Recursividade.runtimeconfig.dev.json
+C:\Users\ianael\source\repos\Recursividade\Recursividade\bin\Debug\net5.0\Recursividade.dll
+C:\Users\ianael\source\repos\Recursividade\Recursividade\bin\Debug\net5.0\ref\Recursividade.dll
+C:\Users\ianael\source\repos\Recursividade\Recursividade\bin\Debug\net5.0\Recursividade.pdb
+C:\Users\ianael\source\repos\Recursividade\Recursividade\obj\Debug\net5.0\Recursividade.csproj.AssemblyReference.cache
+C:\Users\ianael\source\repos\Recursividade\Recursividade\obj\Debug\net5.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ianael\source\repos\Recursividade\Recursividade\obj\Debug\net5.0\Recursividade.AssemblyInfoInputs.cache
+C:\Users\ianael\source\repos\Recursividade\Recursividade\obj\Debug\net5.0\Recursividade.AssemblyInfo.cs
+C:\Users\ianael\source\repos\Recursividade\Recursividade\obj\Debug\net5.0\Recursividade.csproj.CoreCompileInputs.cache
+C:\Users\ianael\source\repos\Recursividade\Recursividade\obj\Debug\net5.0\Recursividade.dll
+C:\Users\ianael\source\repos\Recursividade\Recursividade\obj\Debug\net5.0\ref\Recursividade.dll
+C:\Users\ianael\source\repos\Recursividade\Recursividade\obj\Debug\net5.0\Recursividade.pdb
+C:\Users\ianael\source\repos\Recursividade\Recursividade\obj\Debug\net5.0\Recursividade.genruntimeconfig.cache
