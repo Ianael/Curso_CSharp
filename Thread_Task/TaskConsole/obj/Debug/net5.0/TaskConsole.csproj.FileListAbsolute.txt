@@ -1,0 +1,16 @@
+E:\csharp\Thread_Task\TaskConsole\bin\Debug\net5.0\TaskConsole.exe
+E:\csharp\Thread_Task\TaskConsole\bin\Debug\net5.0\TaskConsole.deps.json
+E:\csharp\Thread_Task\TaskConsole\bin\Debug\net5.0\TaskConsole.runtimeconfig.json
+E:\csharp\Thread_Task\TaskConsole\bin\Debug\net5.0\TaskConsole.runtimeconfig.dev.json
+E:\csharp\Thread_Task\TaskConsole\bin\Debug\net5.0\TaskConsole.dll
+E:\csharp\Thread_Task\TaskConsole\bin\Debug\net5.0\ref\TaskConsole.dll
+E:\csharp\Thread_Task\TaskConsole\bin\Debug\net5.0\TaskConsole.pdb
+E:\csharp\Thread_Task\TaskConsole\obj\Debug\net5.0\TaskConsole.csproj.AssemblyReference.cache
+E:\csharp\Thread_Task\TaskConsole\obj\Debug\net5.0\TaskConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\csharp\Thread_Task\TaskConsole\obj\Debug\net5.0\TaskConsole.AssemblyInfoInputs.cache
+E:\csharp\Thread_Task\TaskConsole\obj\Debug\net5.0\TaskConsole.AssemblyInfo.cs
+E:\csharp\Thread_Task\TaskConsole\obj\Debug\net5.0\TaskConsole.csproj.CoreCompileInputs.cache
+E:\csharp\Thread_Task\TaskConsole\obj\Debug\net5.0\TaskConsole.dll
+E:\csharp\Thread_Task\TaskConsole\obj\Debug\net5.0\ref\TaskConsole.dll
+E:\csharp\Thread_Task\TaskConsole\obj\Debug\net5.0\TaskConsole.pdb
+E:\csharp\Thread_Task\TaskConsole\obj\Debug\net5.0\TaskConsole.genruntimeconfig.cache
