@@ -1,0 +1,10 @@
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\bin\Debug\TransferirArquivoServer.exe.config
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\bin\Debug\TransferirArquivoServer.exe
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\bin\Debug\TransferirArquivoServer.pdb
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.AssemblyReference.cache
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.Form1.resources
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.Properties.Resources.resources
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.GenerateResource.cache
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.csproj.CoreCompileInputs.cache
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.exe
+E:\csharp\TransferirArquivoServer\TransferirArquivoServer\obj\Debug\TransferirArquivoServer.pdb

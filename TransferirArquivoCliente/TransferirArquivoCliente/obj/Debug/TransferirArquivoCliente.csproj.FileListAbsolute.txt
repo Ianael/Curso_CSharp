@@ -1,0 +1,10 @@
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\bin\Debug\TransferirArquivoCliente.exe.config
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\bin\Debug\TransferirArquivoCliente.exe
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\bin\Debug\TransferirArquivoCliente.pdb
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.AssemblyReference.cache
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.Form1.resources
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.Properties.Resources.resources
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.GenerateResource.cache
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.csproj.CoreCompileInputs.cache
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.exe
+E:\csharp\TransferirArquivoCliente\TransferirArquivoCliente\obj\Debug\TransferirArquivoCliente.pdb
