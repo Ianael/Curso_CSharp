@@ -1,0 +1,10 @@
+E:\csharp\ProjectAsync\ProjectAsync\bin\Debug\ProjectAsync.exe.config
+E:\csharp\ProjectAsync\ProjectAsync\bin\Debug\ProjectAsync.exe
+E:\csharp\ProjectAsync\ProjectAsync\bin\Debug\ProjectAsync.pdb
+E:\csharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.csproj.AssemblyReference.cache
+E:\csharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.Form1.resources
+E:\csharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.Properties.Resources.resources
+E:\csharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.csproj.GenerateResource.cache
+E:\csharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.csproj.CoreCompileInputs.cache
+E:\csharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.exe
+E:\csharp\ProjectAsync\ProjectAsync\obj\Debug\ProjectAsync.pdb

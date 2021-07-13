@@ -1,0 +1,10 @@
+E:\csharp\Impressao\Impressao\bin\Debug\Impressao.exe.config
+E:\csharp\Impressao\Impressao\bin\Debug\Impressao.exe
+E:\csharp\Impressao\Impressao\bin\Debug\Impressao.pdb
+E:\csharp\Impressao\Impressao\obj\Debug\Impressao.csproj.AssemblyReference.cache
+E:\csharp\Impressao\Impressao\obj\Debug\Impressao.Form1.resources
+E:\csharp\Impressao\Impressao\obj\Debug\Impressao.Properties.Resources.resources
+E:\csharp\Impressao\Impressao\obj\Debug\Impressao.csproj.GenerateResource.cache
+E:\csharp\Impressao\Impressao\obj\Debug\Impressao.csproj.CoreCompileInputs.cache
+E:\csharp\Impressao\Impressao\obj\Debug\Impressao.exe
+E:\csharp\Impressao\Impressao\obj\Debug\Impressao.pdb
