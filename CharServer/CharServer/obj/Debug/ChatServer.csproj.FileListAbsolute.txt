@@ -1,0 +1,10 @@
+E:\csharp\CharServer\CharServer\obj\Debug\ChatServer.Form1.resources
+E:\csharp\CharServer\CharServer\obj\Debug\CharServer.Properties.Resources.resources
+E:\csharp\CharServer\CharServer\obj\Debug\ChatServer.csproj.GenerateResource.cache
+E:\csharp\CharServer\CharServer\obj\Debug\ChatServer.csproj.CoreCompileInputs.cache
+E:\csharp\CharServer\CharServer\bin\Debug\CharServer.exe.config
+E:\csharp\CharServer\CharServer\bin\Debug\CharServer.exe
+E:\csharp\CharServer\CharServer\bin\Debug\CharServer.pdb
+E:\csharp\CharServer\CharServer\obj\Debug\ChatServer.csproj.AssemblyReference.cache
+E:\csharp\CharServer\CharServer\obj\Debug\CharServer.exe
+E:\csharp\CharServer\CharServer\obj\Debug\CharServer.pdb
