@@ -1,0 +1,10 @@
+E:\csharp\WebBrowser_Test\WebBrowser_Test\bin\Debug\WebBrowser_Test.exe.config
+E:\csharp\WebBrowser_Test\WebBrowser_Test\bin\Debug\WebBrowser_Test.exe
+E:\csharp\WebBrowser_Test\WebBrowser_Test\bin\Debug\WebBrowser_Test.pdb
+E:\csharp\WebBrowser_Test\WebBrowser_Test\obj\Debug\WebBrowser_Test.csproj.AssemblyReference.cache
+E:\csharp\WebBrowser_Test\WebBrowser_Test\obj\Debug\WebBrowser_Test.Form1.resources
+E:\csharp\WebBrowser_Test\WebBrowser_Test\obj\Debug\WebBrowser_Test.Properties.Resources.resources
+E:\csharp\WebBrowser_Test\WebBrowser_Test\obj\Debug\WebBrowser_Test.csproj.GenerateResource.cache
+E:\csharp\WebBrowser_Test\WebBrowser_Test\obj\Debug\WebBrowser_Test.csproj.CoreCompileInputs.cache
+E:\csharp\WebBrowser_Test\WebBrowser_Test\obj\Debug\WebBrowser_Test.exe
+E:\csharp\WebBrowser_Test\WebBrowser_Test\obj\Debug\WebBrowser_Test.pdb
