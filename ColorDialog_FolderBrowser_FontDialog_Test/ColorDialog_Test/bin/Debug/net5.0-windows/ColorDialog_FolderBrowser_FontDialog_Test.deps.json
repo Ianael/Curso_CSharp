@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ColorDialog_FolderBrowser_FontDialog_Test/1.0.0": {
+        "runtime": {
+          "ColorDialog_FolderBrowser_FontDialog_Test.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ColorDialog_FolderBrowser_FontDialog_Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

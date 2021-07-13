@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PageSetUp_e_Print/1.0.0": {
+        "runtime": {
+          "PageSetUp_e_Print.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PageSetUp_e_Print/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
