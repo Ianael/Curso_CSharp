@@ -1,0 +1,7 @@
+E:\csharp\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe.config
+E:\csharp\SocketCliente\SocketCliente\bin\Debug\SocketCliente.exe
+E:\csharp\SocketCliente\SocketCliente\bin\Debug\SocketCliente.pdb
+E:\csharp\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.AssemblyReference.cache
+E:\csharp\SocketCliente\SocketCliente\obj\Debug\SocketCliente.csproj.CoreCompileInputs.cache
+E:\csharp\SocketCliente\SocketCliente\obj\Debug\SocketCliente.exe
+E:\csharp\SocketCliente\SocketCliente\obj\Debug\SocketCliente.pdb
