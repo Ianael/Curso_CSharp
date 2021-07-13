@@ -1,0 +1,10 @@
+E:\csharp\ControleErros\ControleErros\bin\Debug\ControleErros.exe.config
+E:\csharp\ControleErros\ControleErros\bin\Debug\ControleErros.exe
+E:\csharp\ControleErros\ControleErros\bin\Debug\ControleErros.pdb
+E:\csharp\ControleErros\ControleErros\obj\Debug\ControleErros.csproj.AssemblyReference.cache
+E:\csharp\ControleErros\ControleErros\obj\Debug\ControleErros.Form1.resources
+E:\csharp\ControleErros\ControleErros\obj\Debug\ControleErros.Properties.Resources.resources
+E:\csharp\ControleErros\ControleErros\obj\Debug\ControleErros.csproj.GenerateResource.cache
+E:\csharp\ControleErros\ControleErros\obj\Debug\ControleErros.csproj.CoreCompileInputs.cache
+E:\csharp\ControleErros\ControleErros\obj\Debug\ControleErros.exe
+E:\csharp\ControleErros\ControleErros\obj\Debug\ControleErros.pdb
