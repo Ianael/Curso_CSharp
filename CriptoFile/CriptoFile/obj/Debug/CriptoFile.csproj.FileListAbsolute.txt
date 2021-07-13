@@ -1,0 +1,10 @@
+E:\csharp\CriptoFile\CriptoFile\bin\Debug\CriptoFile.exe.config
+E:\csharp\CriptoFile\CriptoFile\bin\Debug\CriptoFile.exe
+E:\csharp\CriptoFile\CriptoFile\bin\Debug\CriptoFile.pdb
+E:\csharp\CriptoFile\CriptoFile\obj\Debug\CriptoFile.csproj.AssemblyReference.cache
+E:\csharp\CriptoFile\CriptoFile\obj\Debug\CriptoFile.Form1.resources
+E:\csharp\CriptoFile\CriptoFile\obj\Debug\CriptoFile.Properties.Resources.resources
+E:\csharp\CriptoFile\CriptoFile\obj\Debug\CriptoFile.csproj.GenerateResource.cache
+E:\csharp\CriptoFile\CriptoFile\obj\Debug\CriptoFile.csproj.CoreCompileInputs.cache
+E:\csharp\CriptoFile\CriptoFile\obj\Debug\CriptoFile.exe
+E:\csharp\CriptoFile\CriptoFile\obj\Debug\CriptoFile.pdb

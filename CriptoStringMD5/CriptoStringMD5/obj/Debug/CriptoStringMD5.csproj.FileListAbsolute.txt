@@ -1,0 +1,10 @@
+E:\csharp\CriptoStringMD5\CriptoStringMD5\bin\Debug\CriptoStringMD5.exe.config
+E:\csharp\CriptoStringMD5\CriptoStringMD5\bin\Debug\CriptoStringMD5.exe
+E:\csharp\CriptoStringMD5\CriptoStringMD5\bin\Debug\CriptoStringMD5.pdb
+E:\csharp\CriptoStringMD5\CriptoStringMD5\obj\Debug\CriptoStringMD5.csproj.AssemblyReference.cache
+E:\csharp\CriptoStringMD5\CriptoStringMD5\obj\Debug\CriptoStringMD5.Form1.resources
+E:\csharp\CriptoStringMD5\CriptoStringMD5\obj\Debug\CriptoStringMD5.Properties.Resources.resources
+E:\csharp\CriptoStringMD5\CriptoStringMD5\obj\Debug\CriptoStringMD5.csproj.GenerateResource.cache
+E:\csharp\CriptoStringMD5\CriptoStringMD5\obj\Debug\CriptoStringMD5.csproj.CoreCompileInputs.cache
+E:\csharp\CriptoStringMD5\CriptoStringMD5\obj\Debug\CriptoStringMD5.exe
+E:\csharp\CriptoStringMD5\CriptoStringMD5\obj\Debug\CriptoStringMD5.pdb
