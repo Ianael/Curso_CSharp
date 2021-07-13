@@ -1,0 +1,10 @@
+E:\csharp\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe.config
+E:\csharp\GDIPlus\GDIPlus\bin\Debug\GDIPlus.exe
+E:\csharp\GDIPlus\GDIPlus\bin\Debug\GDIPlus.pdb
+E:\csharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Form1.resources
+E:\csharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.Properties.Resources.resources
+E:\csharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.GenerateResource.cache
+E:\csharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.CoreCompileInputs.cache
+E:\csharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.exe
+E:\csharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.pdb
+E:\csharp\GDIPlus\GDIPlus\obj\Debug\GDIPlus.csproj.AssemblyReference.cache
