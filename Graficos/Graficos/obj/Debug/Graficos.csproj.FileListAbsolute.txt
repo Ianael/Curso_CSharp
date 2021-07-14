@@ -1,0 +1,10 @@
+E:\csharp\Graficos\Graficos\bin\Debug\Graficos.exe.config
+E:\csharp\Graficos\Graficos\bin\Debug\Graficos.exe
+E:\csharp\Graficos\Graficos\bin\Debug\Graficos.pdb
+E:\csharp\Graficos\Graficos\obj\Debug\Graficos.csproj.AssemblyReference.cache
+E:\csharp\Graficos\Graficos\obj\Debug\Graficos.Form1.resources
+E:\csharp\Graficos\Graficos\obj\Debug\Graficos.Properties.Resources.resources
+E:\csharp\Graficos\Graficos\obj\Debug\Graficos.csproj.GenerateResource.cache
+E:\csharp\Graficos\Graficos\obj\Debug\Graficos.csproj.CoreCompileInputs.cache
+E:\csharp\Graficos\Graficos\obj\Debug\Graficos.exe
+E:\csharp\Graficos\Graficos\obj\Debug\Graficos.pdb

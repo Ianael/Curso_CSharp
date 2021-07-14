@@ -1,0 +1,10 @@
+E:\csharp\Lambda\Lambda\bin\Debug\Lambda.exe.config
+E:\csharp\Lambda\Lambda\bin\Debug\Lambda.exe
+E:\csharp\Lambda\Lambda\bin\Debug\Lambda.pdb
+E:\csharp\Lambda\Lambda\obj\Debug\Lambda.csproj.AssemblyReference.cache
+E:\csharp\Lambda\Lambda\obj\Debug\Lambda.Form1.resources
+E:\csharp\Lambda\Lambda\obj\Debug\Lambda.Properties.Resources.resources
+E:\csharp\Lambda\Lambda\obj\Debug\Lambda.csproj.GenerateResource.cache
+E:\csharp\Lambda\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+E:\csharp\Lambda\Lambda\obj\Debug\Lambda.exe
+E:\csharp\Lambda\Lambda\obj\Debug\Lambda.pdb
