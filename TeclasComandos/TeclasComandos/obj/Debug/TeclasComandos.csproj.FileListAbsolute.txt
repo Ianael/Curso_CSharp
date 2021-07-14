@@ -1,0 +1,10 @@
+E:\csharp\TeclasComandos\TeclasComandos\bin\Debug\TeclasComandos.exe.config
+E:\csharp\TeclasComandos\TeclasComandos\bin\Debug\TeclasComandos.exe
+E:\csharp\TeclasComandos\TeclasComandos\bin\Debug\TeclasComandos.pdb
+E:\csharp\TeclasComandos\TeclasComandos\obj\Debug\TeclasComandos.csproj.AssemblyReference.cache
+E:\csharp\TeclasComandos\TeclasComandos\obj\Debug\TeclasComandos.Form1.resources
+E:\csharp\TeclasComandos\TeclasComandos\obj\Debug\TeclasComandos.Properties.Resources.resources
+E:\csharp\TeclasComandos\TeclasComandos\obj\Debug\TeclasComandos.csproj.GenerateResource.cache
+E:\csharp\TeclasComandos\TeclasComandos\obj\Debug\TeclasComandos.csproj.CoreCompileInputs.cache
+E:\csharp\TeclasComandos\TeclasComandos\obj\Debug\TeclasComandos.exe
+E:\csharp\TeclasComandos\TeclasComandos\obj\Debug\TeclasComandos.pdb
