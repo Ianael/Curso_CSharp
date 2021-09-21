@@ -1,0 +1,10 @@
+E:\csharp\ArquivosPastas\Diretorio\bin\Debug\Diretorio.exe.config
+E:\csharp\ArquivosPastas\Diretorio\bin\Debug\Diretorio.exe
+E:\csharp\ArquivosPastas\Diretorio\bin\Debug\Diretorio.pdb
+E:\csharp\ArquivosPastas\Diretorio\obj\Debug\Diretorio.csproj.AssemblyReference.cache
+E:\csharp\ArquivosPastas\Diretorio\obj\Debug\Diretorio.Form1.resources
+E:\csharp\ArquivosPastas\Diretorio\obj\Debug\Diretorio.Properties.Resources.resources
+E:\csharp\ArquivosPastas\Diretorio\obj\Debug\Diretorio.csproj.GenerateResource.cache
+E:\csharp\ArquivosPastas\Diretorio\obj\Debug\Diretorio.csproj.CoreCompileInputs.cache
+E:\csharp\ArquivosPastas\Diretorio\obj\Debug\Diretorio.exe
+E:\csharp\ArquivosPastas\Diretorio\obj\Debug\Diretorio.pdb

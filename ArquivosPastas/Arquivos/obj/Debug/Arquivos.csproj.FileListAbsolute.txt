@@ -1,0 +1,10 @@
+E:\csharp\ArquivosPastas\Arquivos\bin\Debug\Arquivos.exe.config
+E:\csharp\ArquivosPastas\Arquivos\bin\Debug\Arquivos.exe
+E:\csharp\ArquivosPastas\Arquivos\bin\Debug\Arquivos.pdb
+E:\csharp\ArquivosPastas\Arquivos\obj\Debug\Arquivos.csproj.AssemblyReference.cache
+E:\csharp\ArquivosPastas\Arquivos\obj\Debug\Arquivos.Form1.resources
+E:\csharp\ArquivosPastas\Arquivos\obj\Debug\Arquivos.Properties.Resources.resources
+E:\csharp\ArquivosPastas\Arquivos\obj\Debug\Arquivos.csproj.GenerateResource.cache
+E:\csharp\ArquivosPastas\Arquivos\obj\Debug\Arquivos.csproj.CoreCompileInputs.cache
+E:\csharp\ArquivosPastas\Arquivos\obj\Debug\Arquivos.exe
+E:\csharp\ArquivosPastas\Arquivos\obj\Debug\Arquivos.pdb

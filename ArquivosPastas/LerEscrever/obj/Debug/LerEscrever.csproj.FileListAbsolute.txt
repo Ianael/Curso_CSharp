@@ -1,0 +1,10 @@
+E:\csharp\ArquivosPastas\LerEscrever\bin\Debug\LerEscrever.exe.config
+E:\csharp\ArquivosPastas\LerEscrever\bin\Debug\LerEscrever.exe
+E:\csharp\ArquivosPastas\LerEscrever\bin\Debug\LerEscrever.pdb
+E:\csharp\ArquivosPastas\LerEscrever\obj\Debug\LerEscrever.Form1.resources
+E:\csharp\ArquivosPastas\LerEscrever\obj\Debug\LerEscrever.Properties.Resources.resources
+E:\csharp\ArquivosPastas\LerEscrever\obj\Debug\LerEscrever.csproj.GenerateResource.cache
+E:\csharp\ArquivosPastas\LerEscrever\obj\Debug\LerEscrever.csproj.CoreCompileInputs.cache
+E:\csharp\ArquivosPastas\LerEscrever\obj\Debug\LerEscrever.exe
+E:\csharp\ArquivosPastas\LerEscrever\obj\Debug\LerEscrever.pdb
+E:\csharp\ArquivosPastas\LerEscrever\obj\Debug\LerEscrever.csproj.AssemblyReference.cache

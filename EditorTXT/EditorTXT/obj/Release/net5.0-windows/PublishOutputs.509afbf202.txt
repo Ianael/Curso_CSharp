@@ -1,0 +1,5 @@
+E:\csharp\EditorTXT\EditorTXT\bin\publish\EditorTXT.exe
+E:\csharp\EditorTXT\EditorTXT\bin\publish\EditorTXT.dll
+E:\csharp\EditorTXT\EditorTXT\bin\publish\EditorTXT.deps.json
+E:\csharp\EditorTXT\EditorTXT\bin\publish\EditorTXT.runtimeconfig.json
+E:\csharp\EditorTXT\EditorTXT\bin\publish\EditorTXT.pdb
